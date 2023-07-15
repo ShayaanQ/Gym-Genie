@@ -1,8 +1,8 @@
-Gym Genie
+GYM GENIE
 
 Gym Genie is an extensive C++ program made to help users reach their fitness objectives. This software creates a customized fitness schedule and nutrition plan depending on user input using different C++ functionalities like classes, pointers, loops, and file I/O.
 
-Features:
+FEATURES:
 
 -User Account Creation: Users can register for the software by entering a special username and password. For future logins, this information is safely kept.
 
@@ -20,7 +20,7 @@ Features:
 
 -Persistent Data Storage: All user information, including as account details, personal information, training regimens, meal plans, and PRs, is safely maintained and is accessible whenever the user comes back into their account.
 
-Usage:
+USAGE:
 
 -Clone the repository to your local system, then use a compatible C++ compiler to compile the C++ source files.
 
